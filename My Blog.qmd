@@ -1,0 +1,53 @@
+---
+title: "My Blog"
+---
+
+## Jeff Leek Steps in Becoming a Modern Scientist: PART 1
+
+by Himiede W. Wilson Sesay
+
+This blog highlights many tools to support your modern scientific career. It intends to support any community, specifically the practicing scientists who want to explore the opportunity, take advantage of modern technologies, and use research to answer the many questions.
+
+## Paper Writing: What should I do and Why:
+
+Create 1-10 publications with quality plots and focus on 3-4 central areas. Show these to your audience while making a story. Next, write clearly and simply for the audience, including referees and peers. Include links to data, code, and software in your paper, which can also increase the quality of your work and give credit to those who contributed to your work. Additionally, using collaborative software to avoid restrictions on providing inputs to your paper is very useful for collaborators to input your work.
+
+### Writing: Further tips and issues
+
+-   There is no specific time for you to write your first paper. Start as soon as possible based on your freedom and an opportunity to explore new knowledge, deep dive into existing knowledge, or a leadership opportunity. Now, you can introduce yourself to the world and contribute to software packages (R Packages), papers, or blogs. This activity can even land you a new job.
+
+-   The next thing is to focus your paper on a problem either by an advisor or a topic that interests you or both and requires a solution and will follow the following characteristics that will
+
+    -   Be concrete
+
+    -   Solves a scientific problem
+
+    -   Allow you to learn something new
+
+    -   Something you feel ownership of
+
+    -   Something you want to work on
+
+-   All is set, and you understand the problems. Then, these set the premise to explore your ideas based on the following.
+
+    -   Define the question
+
+    -   Get/tidy the data
+
+    -   Explore the data
+
+    -   Build/borrow a model
+
+    -   Perform the analysis
+
+    -   Check/critique result
+
+    -   Writing things up
+
+### Writing: what tools should I use?
+
+Google accounts are a good tool for creating documents. It can be used to share privately or publicly easily. Paperpile is also good for reference management and allows you to search academic articles and insert references into the text system.
+
+### Type Setting Software: Overleaf or Share Latex
+
+As you progress on writing your paper, typesetting requires software. One of the most commonly used software is Latex. However, it requires more technical expertise and understanding of the typesetting language. Interestingly, it provides precise control of what your document should look like, and using it will require using updated versions. Fortunately, Google Docs can give you all you will need.

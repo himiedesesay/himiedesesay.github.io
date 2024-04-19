@@ -1,0 +1,27 @@
+---
+title: "Himiede W. Wilson Sesay"
+resources: Resume.pdf
+about: 
+  template: trestles
+  links: 
+    - icon: instagram
+      text: instagram
+      href: https://instagram.com/himiedeww
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/himiedewilson
+    - icon: facebook
+      text: facebook
+      href: https://facebook.com/Himiede Wilson Sesay
+    - icon: main-text
+      text: Resume
+      href: Resume.pdf
+    - icon: mail
+      text: Email
+      href: whwhimwil3@yahoo.com
+image: Himiede.jpg
+---
+
+A Field Epidemiologist with more than 7 years of experience in Infectious Diseases Surveillance, and Emergency Response.
+
+My current interests are in Infectious Disease Epidemiology with particular emphasis on Antimicrobial Resistance pathogens, Antimicrobial Stewardship, and Health System Dynamics.

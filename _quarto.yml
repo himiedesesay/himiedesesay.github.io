@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Himiede W. Wilson Sesay's Profile"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Education.qmd
+      - Experience.qmd
+      - Publication.qmd
+      - My Blog.qmd
+
+format:
+  html:
+    theme: pulse
+    css: styles.css
+    toc: true
+
+editor: visual
+
